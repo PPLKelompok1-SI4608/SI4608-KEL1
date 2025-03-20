@@ -6,4 +6,4 @@ Anggota Kelompok 1 SI4608:
 5. Rima Imtichana Mawardah (1202223276)
 6. Ai Eka Citra Lestari (1202223208)
 
-Fitur 1: Profil User (On Progress)
+Fitur 1 Raihan: Profil User
